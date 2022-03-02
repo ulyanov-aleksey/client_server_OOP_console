@@ -1,0 +1,23 @@
+{
+  "DEFAULT_IP_ADDRESS": "127.0.0.1",
+  "DEFAULT_PORT": 7777,
+  "MAX_CONNECTIONS": 5,
+  "MAX_PACKAGE_LENGTH": 1024,
+  "ENCODING": "utf-8",
+  "ACTION": "action",
+  "TIME": "time",
+  "USER": "user",
+  "ACCOUNT_NAME": "account_name",
+  "PRESENCE": "presence",
+  "RESPONSE": "response",
+  "RECIPIENT": "account_name",
+  "SENDER": "account_name",
+  "TO_CLIENT": "to_client",
+  "ERROR": "error",
+  "MESSAGE": "message",
+  "MESSAGE_TEXT": "message_text",
+  "SERVER_DATABASE": "sqlite:///server_base.db3",
+  "RESPONSE_200": {"RESPONSE": 200},
+  "RESPONSE_202": {"RESPONSE": 202,"LIST_INFO": "None"},
+  "RESPONSE_400": {"RESPONSE": 400, "ERROR": "None"}
+  }
